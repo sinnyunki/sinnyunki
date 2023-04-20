@@ -1,0 +1,11 @@
+{
+    "label": "상단메뉴형 I",
+    "version": 1.0,
+    "locales": {
+        "label": {
+            "root": "Top Menu I"
+        }
+    },
+    "config": {},
+    "templates": {}
+}
